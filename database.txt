@@ -1,0 +1,10 @@
+account types:Saving current and salary accounts available
+saving account:Minimum balance 1000
+current account:Minimum balance 5000
+upi limit:Maximum 1 lakh per day
+atm card:Delivered in 5 working days
+net banking:Activate using registered mobile number
+loan types:Home personal education and car loans
+deposit cash:Use branch or deposit machine
+withdraw cash:Use ATM or branch
+branch timing:10am to 4pm Monday to Friday
